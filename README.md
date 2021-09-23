@@ -3,4 +3,4 @@ Space Invaders is a 1978 shoot 'em up arcade game developed by Tomohiro Nishikad
 
 ![game](https://raw.githubusercontent.com/lovesaroha/gimages/main/12.png)
 
-[lovesaroha/p/Space-Invaders-Game](https://lovesaroha.com/p/Space-Invaders-Game)
+[lovesaroha/Space-Invaders-Game](https://games.lovesaroha.com/Space-Invaders-Game)
